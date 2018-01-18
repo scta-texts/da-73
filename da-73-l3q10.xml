@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../tools/schema/lombardpress-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          Utrum intellectus possibilis intelligat se per essentiam.
+        </title>
+        <author>Henricus de la Wyle</author>
+        <editor>Michael Stenskjær Christensen</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.1-dev">
+          <date when="2018-01-16">January 16, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Michael</publisher>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</ref></p>
+        </availability>
+        <date when="2018-01-16">January 16, 2018</date>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness id="M">
+            Oxford, Magdalen College Library 53, ff. 57r-94v
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <variantEncoding method="parallel-segmentation" location="internal"/>
+      <schemaRef n="lbp-critical-1.0.0"
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
+      </schemaRef>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the
+          LombardPress 1.0.0 guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-01-16" status="draft" n="0.0.1-dev">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la" type="critical">
+    <front>
+      <div xml:id="starts-on">
+        <pb n="86-v" ed="#M"/><cb ed="#M" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="da-73-l3q10">
+        <div ana="#rationes-principales">
+          <p xml:id="da-73-l3q10-v454ai">
+            <add place="margin-right">Quaestio</add> Quaeritur utrum intellectus
+            possibilis intelligat se per essentiam et videtur quod sic quia per
+            <name ref="#Aristotle">Aristoteles</name> in littera <quote>in
+            separatis a materia idem est quod intelligit et quod
+            intelligitur</quote>; sed intellectus possibilis separatus a materia
+            quia non determinat sibi organum; in eo igitur idem est intelligens
+            et quod intelligitur, sed per essentiam est intelligens, ergo per
+            essentiam suam intelligitur.
+          </p>
+          <p xml:id="da-73-l3q10-mmymjh">
+            Item, si intelligeret se per aliud aut igitur per speciem eius aut
+            alterius; non per speciem eius, quia facet tunc speciem in virtute
+            fantastica, nec per speciem alterius, ut videtur, quia cum species
+            sit illud quo res cognoscitur, oportet eam esse proportionale
+            cogniti, sed rei alterius species non est proportionalis
+            <unclear>intellectui</unclear>; intellectus ergo possibilis non
+            intelligit se per speciem, intelligit igitur se per essentiam.
+          </p>
+          <p xml:id="da-73-l3q10-7sbypf">
+            Item in substantiis separatis ita est quod substantia est
+            intelligens et est intelligibilis, sic scientia est ex parte
+            intellectus possibilis, sed in substantiis separatis ita est quod
+            ipsa intellectu se per essentiam suam
+            <supplied>intelligit</supplied>; ergo similiter dicit de intellectu
+            possibili.
+          </p>
+        </div>
+        <div ana="#rationes-principales">
+          <p xml:id="da-73-l3q10-e1z5h4">
+            Oppositum videtur <name ref="#Aristotle">Aristoteles</name>
+            determinare in littera.
+          </p>
+        </div>
+        <div ana="#determinatio">
+          <p xml:id="da-73-l3q10-sxwrb9">
+            Dicendum est secundum quod innuit <name
+            ref="#Aristotle">Aristoteles</name> in littera quod intellectus
+            noster intelligit se sicut alia; sed alia intelligit per speciem; se
+            igitur intelligit per speciem aliquam. Ex hoc dicendum est quod
+            intellectus noster possiblis coniunctus se non intelligit per
+            essentiam. Illud ostenditur sic inter substantias
+            <unclear>intelligentes</unclear>: intellectus noster est sicut materia
+            prima quia tenet infimum gradum, quia prima causa quae est substantia
+            <unclear>intelligens</unclear> est actus purus intelligentia,
+            et quae est substantia intelligens est actus, sed non purus, quia in
+            omnibus secundum <unclear>Boethium</unclear> citra primum
+            <unclear>sint</unclear> quid est a quo est, quia in omnibus
+            huiusmodi est aliqua compositio potentiae et actus. Intellectus
+            noster respectu praedictarum substantiarum intelligentium est sicut
+            potentia prima, sed omnino sicut res se habent ad actum sic ad
+            intellectum, quia quicquid intelligitur intelligitur ut actu prima,
+            igitur causa quae solum est actus se intelligit per essentiam et
+            solum se, quia ut vult
+            <cit>
+              <ref ref="#Arist.Metaph">in duodecimo:</ref>
+              <quote>alia intelligit intelligendo se</quote>
+              <bibl>Arist. Metaph. XII.7/9</bibl>
+            </cit>
+            . <unclear>intellectiva [=intelligentia]</unclear>, quia distat ab
+            actu puro, se intelligit et etiam alia, sed illa alia quae
+            intelligit non intelligit per speciem, quia huiusmodi substantia est
+            separata a materia secundum essentiam. Properter hoc de illis dici
+            potest quod quae intelligunt intelligunt per essentiam propriam.
+            Intellectus noster, cum sit sicut potentia pura et in hoc multum
+            distat ab actu, se non intelligit per essentiam, quia potentia per
+            se non vadit ad actum, sed intellectus noster inter substantias
+            intelligibiles et inteligentes est sicut potentia.
+          </p>
+          <p xml:id="da-73-l3q10-uot6cx">
+            <unclear>Istud oportet ex alio</unclear> potentiae distinguintur per
+            actus et cognoscuntur, intellectus igitur possibilis, ut nominat
+            potentiam, cognoscitur per actum suum secundum quem intelligit alia.
+            Unde intelligendo illum actum per speciem rei extra se ipsum
+            cognoscit et intelligit. Unde non videtur intelligere nisi per
+            reflexionem, quia species intelligibilis extra primo ducit in
+            cognitionem intelligibilis extra, et ex consequenti in cognitionem
+            actus intelligendi, et deinde in cognitionem sui.
+          </p>
+          <p xml:id="da-73-l3q10-26h1m2">
+            Ad illud ostenditur <unclear>affirmit</unclear> <name
+            ref="#aristotle">Aristoteles</name> in littera quod in separatis a
+            materia idem est quod intelligit et quod intelligitur
+            <app>
+              <lem wit="#M" type="correction-addition">
+                <add place="margin-bottom">secundum essentiam</add>
+              </lem>
+            </app>
+            ; in propsitio vocat
+            <!-- Margin note: intellectus noster possibilis quoddammodo
+                 separatur a materia quod intelligitur (I think it's just a
+                 note, not a addition/correction) -->
+            <name ref="#Aristotle">Aristoteles</name>
+            <mentioned>speciem</mentioned> qua intellectus fit actu intelligens;
+            unde quia illa species est eadem cum intellectu nostro possibili
+            quoddammodo separato ideo intellectus noster se intelligit per illam
+            speciem.
+          </p>
+          <p xml:id="da-73-l3q10-head2i">
+            Ulterius videndum est quod contingit intellectum habere cognitionem
+            sui <pb ed="#M" n="87-r"/><cb ed="#M" n="a"/> secundum essentiam
+            quia supponitur quod de anima potest esse scientia, sed scientia de
+            aliquo est secundum cognitionem quantum ad essentiam, sed istam
+            cognitionem habet de se ipso per multas reflexiones. Iste modus
+            cognoscendi sive intelligendi non est ad propositum.
+          </p>
+        </div>
+        <div ana="#ad-rationes">
+          <p xml:id="da-73-l3q10-b5jduy">
+            Ad primum argumentum dicitur secundum iam dicta quod si
+            <unclear>recte</unclear> accipitur intellectus litterae, sic magis
+            ad oppositum quam ad propositum, quia sicut in scientiis
+            speculativis idem est scientia et scitum,
+            <unclear>consimiliter</unclear> de intellectu nostro quoddammodo
+            separato dicendum est quod est idem cum
+            <app>
+              <lem>specie</lem>
+              <rdg wit="#M" type="correction-substitution">
+                <subst>
+                  <del>speciei</del>
+                  <add>specie</add>
+                </subst>
+              </rdg>
+            </app>
+            rei intelligibilis extra, et quia sibi est idem ideo per ipsam se
+            intelligit.
+          </p>
+          <p xml:id="da-73-l3q10-bg0ugt">
+            Ad aliud argumentum dicendum est quod intellectus noster potest se
+            intelligere per speciem cuiuscumque intelligiblis extra, quia sicut
+            materia fit actu existens sub quacumque forma substantiali,
+            consimiliter intellectus noster possibilis potest fieri actu per
+            quamcumque speciem rei intelligibilis extra, et proper hoc quacumque
+            specie informatur per illa potest se intelligere. Unde dicendum est
+            quod se intelligit per speciem alterius.
+          </p>
+          <p xml:id="da-73-l3q10-i7zoef">
+            Et ulterius ad argumentum dicendum est quod oportet speciem esse
+            proportionalem illi in cuius cognitionem primo ducit, sed secundum
+            iam dicta illud species rei intelligibilis extra non ducunt in
+            cognitionem intellectus noster nisi ex consequenti et per
+            reflexionem, et propter hoc non oportet quod sit proportionalis sibi.
+          </p>
+          <p xml:id="da-73-l3q10-hzb2gz">
+            Ad ultimum argumentum dicendum est quod aliter est intellectus
+            noster intelligens et intelligibilis quam substantia separata, quia
+            sicut est dictum, cum intellectus noster est coniunctus est sicut
+            potentia prima inter substantias <unclear>intelligentes</unclear>, et
+            propter hoc per se non intelligit sicut substantia separata secundum
+            esse. Supposito tamen quod possit separari secundum esse et manere
+            separati, tunc forte se intelligeret sicut substantia separata vel
+            intelligibilia.
+          </p>
+        </div>
+        <p xml:id="da-73-l3q10-ewyv0k">
+          Contra praedicta aliquis diceret quod intellectus noster potest
+          habere aliquam speciem sibi innatam quae <unclear>solum</unclear>
+          ducit in cognitionem eius, et quod propter hoc intelligit se per
+          speciem, sed non per speciem alterius sed ex illo, videtur sequi
+          inconsideratio, scilicet quod intellectus noster semper se
+          intelliget, quia semper ipso manente manet species sibi innata et ex
+          hoc ulterius sequitur quod alia non intelliget quia intellectus
+          noster ad quod se convertit totaliter se convertit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
