@@ -60,14 +60,23 @@
       <div xml:id="da-73-l3q10">
         <div ana="#rationes-principales">
           <p xml:id="da-73-l3q10-v454ai">
-            <add place="margin-right">Quaestio</add> Quaeritur utrum intellectus
-            possibilis intelligat se per essentiam et videtur quod sic quia per
-            <name ref="#Aristotle">Aristoteles</name> in littera <quote>in
-            separatis a materia idem est quod intelligit et quod
-            intelligitur</quote>; sed intellectus possibilis separatus a materia
-            quia non determinat sibi organum; in eo igitur idem est intelligens
-            et quod intelligitur, sed per essentiam est intelligens, ergo per
-            essentiam suam intelligitur.
+            <!-- Note in left margin: Quaestio -->
+            Quaeritur utrum intellectus possibilis intelligat se per essentiam
+            et videtur quod sic quia per <name
+            ref="#Aristotle">Aristoteles</name> in littera
+            <cit>
+              <quote>
+                in separatis a materia idem est quod intelligit et quod
+                intelligitur
+              </quote>
+              <bibl>
+                Arist. <title ref="#Arist.DA">DA</title> III.4 430a3--4.
+              </bibl>
+            </cit>
+            ; sed intellectus possibilis separatus a materia quia non determinat
+            sibi organum; in eo igitur idem est intelligens et quod
+            intelligitur, sed per essentiam est intelligens, ergo per essentiam
+            suam intelligitur.
           </p>
           <p xml:id="da-73-l3q10-mmymjh">
             Item, si intelligeret se per aliud aut igitur per speciem eius aut
@@ -103,7 +112,7 @@
             essentiam. Illud ostenditur sic inter substantias
             <unclear>intelligentes</unclear>: intellectus noster est sicut materia
             prima quia tenet infimum gradum, quia prima causa quae est substantia
-            <unclear>intelligens</unclear> est actus purus intelligentia,
+            <unclear>intelligens</unclear> est actus purus. Intelligentia,
             et quae est substantia intelligens est actus, sed non purus, quia in
             omnibus secundum <unclear>Boethium</unclear> citra primum
             <unclear>sint</unclear> quid est a quo est, quia in omnibus
@@ -129,14 +138,14 @@
             intelligibiles et inteligentes est sicut potentia.
           </p>
           <p xml:id="da-73-l3q10-uot6cx">
-            <unclear>Istud oportet ex alio</unclear> potentiae distinguintur per
-            actus et cognoscuntur, intellectus igitur possibilis, ut nominat
-            potentiam, cognoscitur per actum suum secundum quem intelligit alia.
-            Unde intelligendo illum actum per speciem rei extra se ipsum
-            cognoscit et intelligit. Unde non videtur intelligere nisi per
-            reflexionem, quia species intelligibilis extra primo ducit in
-            cognitionem intelligibilis extra, et ex consequenti in cognitionem
-            actus intelligendi, et deinde in cognitionem sui.
+            Istud oportet ex alio: Potentiae distinguintur per actus et
+            cognoscuntur, intellectus igitur possibilis, ut nominat potentiam,
+            cognoscitur per actum suum secundum quem intelligit alia. Unde
+            intelligendo illum actum per speciem rei extra se ipsum cognoscit et
+            intelligit. Unde non videtur intelligere nisi per reflexionem, quia
+            species intelligibilis extra primo ducit in cognitionem
+            intelligibilis extra, et ex consequenti in cognitionem actus
+            intelligendi, et deinde in cognitionem sui.
           </p>
           <p xml:id="da-73-l3q10-26h1m2">
             Ad illud ostenditur <unclear>affirmit</unclear> <name
@@ -186,22 +195,23 @@
             rei intelligibilis extra, et quia sibi est idem ideo per ipsam se
             intelligit.
           </p>
-          <p xml:id="da-73-l3q10-bg0ugt">
-            Ad aliud argumentum dicendum est quod intellectus noster potest se
-            intelligere per speciem cuiuscumque intelligiblis extra, quia sicut
-            materia fit actu existens sub quacumque forma substantiali,
-            consimiliter intellectus noster possibilis potest fieri actu per
-            quamcumque speciem rei intelligibilis extra, et proper hoc quacumque
-            specie informatur per illa potest se intelligere. Unde dicendum est
-            quod se intelligit per speciem alterius.
-          </p>
-          <p xml:id="da-73-l3q10-i7zoef">
-            Et ulterius ad argumentum dicendum est quod oportet speciem esse
-            proportionalem illi in cuius cognitionem primo ducit, sed secundum
-            iam dicta illud species rei intelligibilis extra non ducunt in
-            cognitionem intellectus noster nisi ex consequenti et per
-            reflexionem, et propter hoc non oportet quod sit proportionalis sibi.
-          </p>
+          <div>
+            <p xml:id="da-73-l3q10-bg0ugt">
+              Ad aliud argumentum dicendum est quod intellectus noster potest se
+              intelligere per speciem cuiuscumque intelligiblis extra, quia
+              sicut materia fit actu existens sub quacumque forma substantiali,
+              consimiliter intellectus noster possibilis potest fieri actu per
+              quamcumque speciem rei intelligibilis extra, et proper hoc
+              quacumque specie informatur per illa potest se intelligere. Unde
+              dicendum est quod se intelligit per speciem alterius. Et ulterius
+              ad argumentum dicendum est quod oportet speciem esse
+              proportionalem illi in cuius cognitionem primo ducit, sed secundum
+              iam dicta illud species rei intelligibilis extra non ducunt in
+              cognitionem intellectus noster nisi ex consequenti et per
+              reflexionem, et propter hoc non oportet quod sit proportionalis
+              sibi.
+            </p>
+          </div>
           <p xml:id="da-73-l3q10-hzb2gz">
             Ad ultimum argumentum dicendum est quod aliter est intellectus
             noster intelligens et intelligibilis quam substantia separata, quia
