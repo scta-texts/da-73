@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../tools/schema/lombardpress-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          I.1: An de anima possit esse scientia
+        </title>
+        <author>Henricus de la Wyle</author>
+        <editor>Michael Stenskjær Christensen</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.1-dev">
+          <date when="2018-02-13">February 13, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Michael</publisher>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</ref></p>
+        </availability>
+        <date when="2018-02-13">February 13, 2018</date>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness id="M">
+            Oxford, Magdalen College Library 63, ff. 57r-94v
+            <msDesc>
+              <physDesc>
+                <handDesc hands="2">
+                  <handNote sameAs='#M'>Main hand.</handNote>
+                  <handNote xml:id="Mc">
+                    Later corrections, possibly different ink, probably same
+                    scribe.
+                  </handNote>
+                </handDesc>
+              </physDesc>
+            </msDesc>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <variantEncoding method="parallel-segmentation" location="internal"/>
+      <schemaRef n="lbp-critical-1.0.0"
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
+      </schemaRef>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the
+          LombardPress 1.0.0 guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-02-13" status="draft" n="0.0.1-dev">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la" type="critical">
+    <front>
+      <div xml:id="starts-on">
+        <pb n="57-r" ed="#M"/><cb ed="#M" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="da-73-l1q1">
+        <head>
+          <supplied ana="#meta-text">
+            I.1: An de anima possit esse scientia
+          </supplied>
+        </head>
+        <p xml:id="da-73-l1q1-opk9cz">
+          <cit>
+            <quote>Bonorum honorabilium notitiam opinantes.</quote>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name>
+              <title ref="#Arist.DA">DA</title> I.1, 402a1--2.
+            </bibl>
+          </cit>
+          Quaeritur an de anima possit esse scientia.
+        </p>
+        <div ana="#rationes-principales" xml:id="da-73-l1q1-3crs3s">
+          <p xml:id="da-73-l1q1-xp4zd2">
+            Videtur primo quod non, quia illud de quo est scientia per se
+            oportet esse aliquod universale; anima non est huiusmodi; ergo et
+            cetera. Maior ostenditur
+            <cit>
+              <ref>
+                primo <title ref="#Aristo.APo">Posteriorum</title>
+              </ref>
+              <bibl>APo I.??</bibl>
+            </cit>
+            . Minor probatur sic: Universale sit per abstractionem a multis
+            singularibus sensibus; sed anima non est singulare et sensibilis.
+          </p>
+          <div>
+            <p xml:id="da-73-l1q1-f1ncv4">
+              Item illud de quo est scientia oportet esse intelligibile; sed
+              anima non est intelligibile; ergo et cetera. Minor patet ex
+              tribus. Quod intelligit inquantum intelligit est patiens et motum;
+              quod intelligitur inquantum tale est agens et movens; sed nihil
+              idem est agens et patiens, movens et motum, quia tunc idem eodem
+              respectu esset in potentia et in actu; sed si anima esset
+              intelligibilis, idem esset quod intelligit et quod intelligitur,
+              et per consequens idem esset et eodem respectu agens et patiens,
+              movens et motum.
+            </p>
+            <p xml:id="da-73-l1q1-2plbr7">
+              Idem secundo ostenditur sic: Nostrum intelligere vel est fantasma
+              vel non est sine fantasamate; quod ergo non facit fantasma non est
+              intelligibile; anima est huiusmodi; ergo et cetera. Minor huius
+              ostenditur quia per
+              <cit>
+                <ref>
+                  <name ref="#Aristotle">Aristoteles</name>
+                  secundo huius
+                </ref>
+                <quote>
+                  fantasma est motus factus a sensu
+                </quote>
+                <bibl>
+                  <name ref="#Aristotle">Aristoteles</name>
+                  <title ref="#Arist.DA">DA</title> II.??
+                </bibl>
+              </cit>
+              ,
+              <app>
+                <lem type="conjecture-corrected">
+                  <corr>quare</corr>
+                </lem>
+                <rdg wit="#M">quia</rdg>
+              </app>
+              manifestum est quod anima non cadit sub sensus; ergo fantasma
+              facere no potest, et er consequens non est intelligibilis.
+            </p>
+            <p xml:id="da-73-l1q1-wuv902">
+              Illud idem ostenditur tertio sic: Per
+              <cit>
+                <ref>
+                  <name ref="#Aristotle">Aristoteles</name>
+                  tertio huius
+                </ref>
+                <bibl>
+                  <name ref="#Aristotle">Aristoteles</name>
+                  <title ref="#Arist.DA">DA</title> III.??
+                </bibl>
+              </cit>
+              nostrum intelligere est cum continuo et tempore; sed anima nec est
+              continua nec temporalis; ergo et cetera. Quod non sit continua
+              manifestum est quia non est divisibilis; quod non sit temporalis
+              patet per
+              <cit>
+                <ref>
+                  <name ref="#Aristotle">Aristoteles</name>
+                  secundo huius
+                </ref>
+                <bibl>Arist. DA II.??</bibl>
+              </cit>
+              ubi vult quod anima separatur a corpore tamquam perpetuum a
+              corporali, sed nihil inquantum perpetuum est temporale.
+            </p>
+          </div>
+          <p xml:id="da-73-l1q1-o25zpl">
+            Item illud de quo est scientia neccesarie est habere aliquam
+            proprietatem per se quae possit ostendi de eo; sed anima non est
+            talis proprietas; ergo et cetera. Minor ostenditur se eius esset
+            aliquam proprietas per se, haec maxime esset intelligere et sentire,
+            sed per <name ref="#Aristotle">Aristoteles</name> istae proprietates
+            non sunt per se ipsius animae, sed coniunti; unde habetur quod nihil
+            aliud est dicere animam gaudere vel tristari quam texere vel
+            aedificare et cetera.
+          </p>
+        </div>
+        <div ana="#rationes-principales">
+          <p xml:id="da-73-l1q1-iqu9d4">
+            Oppositum ostenditur sic de forma et perfectione rei naturalis potest
+            esse aliquam scientia, sed anima est perfectio rei naturalis et forma,
+            quia corporis animati de ipsa, ergo potest esse scientia. Maior
+            ostenditur sic per
+            <cit>
+              <ref>
+                <name ref="#Aristotle">Aristoteles</name>
+                primo <title ref="#Arist.Phys">Physicorum</title>
+              </ref>
+              <quote>material est solum scibilis secundum analogiam.</quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.Phys">Phys.</title> I.??
+              </bibl>
+            </cit>
+            Quod ergo materia sit scibilis, hoc est per respectum ad formam, forma
+            ergo est magis per se scibilis.
+          </p>
+        </div>
+        <div ana="#determinatio">
+          <div xml:id="da-73-l1q1-ypne13">
+            <p xml:id="da-73-l1q1-ozh758">
+              Ad illud dicendum est quod differenter dicitur de aliquo esse
+              scientia, quia alium dicitur esse scientia de aliquo sicut de
+              subiecto; alium dicitur esse scientia de aliquo sicut de
+              conclusione in demonstratione; alium dicitur esse scientia de
+              aliquo sicut de passione quae scitur de subiecto. Inter istos
+              modos maxime proprie est scientia quando <cb ed="#M" n="b"/> de
+              alio scitur sicut de subiecto, quia proprie est illud quod scitur.
+              Passio est illud <add place="above-line">quod</add> solum de alio
+              scitur, et obiectum appropriato est illud de quo scitur aliud.
+              Quaerere igitur utrum de anima possit esse scientia est quaerere
+              an ipsa possit esse subiectum scientiae, non ita quod sit illud in
+              quo est scientia sicut in obiecto, quia tunc omnis scientia esset
+              de anima, quia omnis scientia est in anima tamquam
+              <app>
+                <lem>in</lem>
+                <rdg wit="#M" type="correction-substitution">
+                  <subst>
+                    <del>de</del>
+                    <add>in</add>
+                  </subst>
+                </rdg>
+              </app>
+              obiecto.
+            </p>
+            <p xml:id="da-73-l1q1-5e53gy">
+              Est tunc intelligendum scientiam esse de anima ita ipsa possit
+              esse obiectum de quo probatur alia passio per medium, quod est
+              causa vel effectus. Dici ergo potest quod anima potest esse
+              subiectum illud de quod probari potest alia proprietas per se per
+              medium quod est causa vel effectus, quia licet forma constituat
+              unum secundum essentiam cum ipsa materia, adhuc essentia formae,
+              inquantum cognoscitur ut simplex, alia est ab essentia formae
+              inquantum compositum, et per consequens alia definitio formae
+              inquantum simplex et <surplus>compositum</surplus>
+              <app>
+                <lem wit="#M">
+                  <unclear>inquantum</unclear>
+                </lem>
+              </app>
+              compositum. Sed ubi alia
+              est essentia et alia definitio alia potest esse
+              <app>
+                <lem wit="#M">
+                  <unclear>definitio</unclear>
+                </lem>
+              </app>
+              per se; alia ergo potest esse scientia de anima et alia de corpore
+              animato, quia illa tria videntur sufficere, scilicet subiectum
+              scibile, et proprietas per se, et definitio. Dici potest igitur
+              quod de anima potest esse scientia tamquam de subiecto.
+            </p>
+          </div>
+        </div>
+        <div ana="#ad-rationes" xml:id="da-73-l1q1-ipt4tw">
+          <p xml:id="da-73-l1q1-ymo3ak">
+            Ad primum argumentum dicendum quod sicut in composito est assignare
+            universale et perticulare, sic quoddamodo in formis in
+            <unclear>componiter</unclear> ex hoc habeus universale quod illud
+            quod est compositum consideramus praeter significationem, quia
+            intelligere illud quod est Socrates non ut Socrates est est
+            intelligere universale. Consimiliter est in formis intelligendo
+            formam non ut haec forma est intelligere modo universali et ideo
+            modo de anima tamquam de subiecto universali potest esse scientia.
+            Unde ad rationem dicendum est quod anima, licet non sit singulare et
+            sensibile, ipsa tamen considerari potest modo universali; unde non
+            oportet deinde considerationem universalis esse per abstractionem a
+            singulari sensibili et composito, quia universale respectu huius
+            quod est sensus vel species habet modum universalis et abstracta et
+            tum manifestum est quod nec genus nec species est particulare vel
+            sensibile.
+          </p>
+          <div>
+            <p xml:id="da-73-l1q1-gs8pvh">
+              Ad aliud dicendum est quod minor est falsa, quia anima est
+              intelligibilis prout sufficit ad dubium cognoscibile, unde
+              difficultas in inteligendo immateriales formas non est ex parte
+              intelligibilis, quia ipsa sunt maxime intelligibilia, sed ipsa est
+              ex parte intelligentis. Unde in <unclear>animalibus</unclear>
+              cognoscibilibus difficultas est ex parte cognoscibilis et propter
+              hoc quoddam cognoscitur per privationem, sicut punctus est illud
+              cuius pars non est. Similiter in eo quod est ens in potentia ibi
+              est difficultas ex parte cognoscibilis, sed formae immateriales
+              sunt difficiles ad cognoscendum et illa diffi<pb ed="#M"
+              n="57-v"/><cb ed="#M" n="a"/>cultas est ex debilitate intellectus
+              nostri.
+            </p>
+            <p xml:id="da-73-l1q1-rnpyul">
+              Ad primum dicendum est quod <unclear>so()to</unclear> de motu qui
+              est actus entis imperfecti non est possibile idem eodem respectu
+              esse movens et motum, agens et patiens. Sed nunc est ita quod
+              intelligere aliquo modo debeat dici motus <add
+              place="above-line">et</add> erit motus entis perfecti et propter
+              hoc <unclear>e()te</unclear> erit motus ab eo quem definit <name
+              ref="#Aristotle">Aristoteles</name> et propter hoc in tali non est
+              inconveniens idem respectu sui esst movens et motum.
+            </p>
+            <p xml:id="da-73-l1q1-kh1wxf">
+              Propter aliud quod tangitur dicendum quod etsi intellectus in
+              intelligendo dicatur pati hoc est <unclear>e()ce</unclear>, unde
+              <name ref="#Aristotle">Aristoteles</name> vult quod suum recipere
+              magis est salus quam passio. Ista ratio videtur adhuc esse dubia
+              quia quocumque modo sumatur motus, non vdetur; unde esse
+              intelligibile quod idem posset esse movens et motum respectu sui
+              ipsius. Ista dubitatio non habet locum si intelligamus quod
+              Socrates habeat mentem de intellectu Platonis, sed illa dubitatio
+              habet locum de eodem intelligente respectu sui intellectus, an
+              Socrates posset intelligere suum intellectum propter quam dicitur
+              ulterius quod cum intellectus intelligit suum intellectum, hoc non
+              est per se er primo, immo est per quemdam discursum quia in hoc
+              quod intelligit rem aliam percipit actum suum et in hoc quod
+              percipit actum quodammodo percipit substantiam cuius est iste
+              actus et ideo ex consequenti intelligit suum intellectum. Unde
+              quod id sit sic movens et motum ita quod non primo non est
+              inconveniens.
+            </p>
+          </div>
+          <div>
+            <p xml:id="da-73-l1q1-102u14">
+              Ad aliam probationem dicendum est secundum nunc dicta quod
+              intellectus sive anima non est illud quod primo nec est per
+              tamquam per se obiectum intellectus nostri et propter hoc non
+              oportet quod primo faciat fantasma a sensu. Unde de eis quae primo
+              et per se intelliguntur intellectu nostro verum est quod oportet
+              intelligibile primo immitare virtutem sensitivam a qua possit
+              causari fantasma.
+            </p>
+            <p xml:id="da-73-l1q1-k1pins">
+              Ad aliud argumentum dicendum est quod illud quod per se et primo
+              intelliguntur intellectu nostro oportet esse cum continuo et
+              tempore, sed secundum nunc dicta anima non est primum
+              intelligibile nisi per discursum. Aliter dicitur ad illud idem
+              quod licet anima intellectiva non sit <unclear>continua</unclear>
+              quantum est de se nec etiam per accidens nec etiam sit temporalis,
+              est tamen perfectio alicuius continuus et alicuius temporalis
+              propter quod intelligi potest sicut aliae formae materiales. Istae
+              dubitationes de intelligibili non faciunt <unclear>vere</unclear>
+              difficultatem de anima, immo solum de anima intellectiva.
+            </p>
+            <p xml:id="da-73-l1q1-kcvq78">
+              Ad ultimum argumentum dicendum est quod quamvis huiusmodi
+              proprietates gaudere et cetera non fiunt per se et primo ipsius
+              animae <unclear>potentiae</unclear> tamen est aliquam esse
+              proprietatem per se et <add hand="#Mc"
+              place="above-line">non</add> primo.
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
