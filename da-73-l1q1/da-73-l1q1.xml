@@ -98,14 +98,14 @@
             . Minor probatur sic: Universale sit per abstractionem a multis
             singularibus sensibus; sed anima non est singulare et sensibilis.
           </p>
-          <div>
+          <div xml:id="da-73-l1q1-4jh4fn">
             <p xml:id="da-73-l1q1-f1ncv4">
               Item illud de quo est scientia oportet esse intelligibile; sed
               anima non est intelligibile; ergo et cetera. Minor patet ex
               tribus.
             </p>
             <div type="number-all">
-              <p xml:id="da-73-l1q1-u7p7oi" ana="#structure-head">
+              <p xml:id="da-73-l1q1-u7p7oi">
                 Quod intelligit inquantum intelligit est patiens et motum; quod
                 intelligitur inquantum tale est agens et movens; sed nihil idem
                 est agens et patiens, movens et motum, quia tunc idem eodem
@@ -233,7 +233,7 @@
               Est tunc intelligendum scientiam esse de anima ita ipsa possit
               esse obiectum de quo probatur alia passio per medium, quod est
               causa vel effectus. Dici ergo potest quod anima potest esse
-              subiectum illud de quod probari potest alia proprietas per se per
+              subiectum illud de quo probari potest alia proprietas per se per
               medium quod est causa vel effectus, quia licet forma constituat
               unum secundum essentiam cum ipsa materia, adhuc essentia formae,
               inquantum cognoscitur ut simplex, alia est ab essentia formae
@@ -265,7 +265,7 @@
             hoc habemus universale quod illud quod est compositum consideramus
             praeter significationem, quia intelligere illud quod est Socrates
             non ut Socrates est est intelligere universale. Consimiliter est in
-            formis intelligendo formam non ut haec forma est intelligere modo
+            formis, intelligendo formam non ut haec forma est intelligere modo
             universali, et ideo modo de anima tamquam de subiecto universali
             potest esse scientia. Unde ad rationem dicendum est quod anima,
             licet non sit singulare et sensibile, ipsa tamen considerari potest
@@ -279,7 +279,7 @@
             <p xml:id="da-73-l1q1-gs8pvh" ana="#structure-head">
               Ad aliud dicendum est quod minor est falsa, quia anima est
               intelligibilis prout sufficit ad dubium cognoscibile, unde
-              difficultas in inteligendo immateriales formas non est ex parte
+              difficultas in intelligendo immateriales formas non est ex parte
               intelligibilis, quia ipsa sunt maxime intelligibilia, sed ipsa est
               ex parte intelligentis. Unde in <unclear>animalibus</unclear>
               cognoscibilibus difficultas est ex parte cognoscibilis, et propter
@@ -300,23 +300,23 @@
                 <unclear>e()te</unclear> erit motus ab eo quem definit <name
                 ref="#Aristotle">Aristoteles</name>, et propter hoc in tali non
                 est inconveniens idem respectu sui esset movens et motum.
-              </p>
-              <p xml:id="da-73-l1q1-kh1wxf">
                 Propter aliud quod tangitur dicendum quod etsi intellectus in
                 intelligendo dicatur pati, hoc est <unclear>e()ce</unclear>,
                 unde <name ref="#Aristotle">Aristoteles</name> vult quod suum
-                recipere magis est salus quam passio. Ista ratio videtur adhuc
-                esse dubia quia quocumque modo sumatur motus, non videtur unde
-                esse intelligibile quod idem posset esse movens et motum
-                respectu sui ipsius. Ista dubitatio non habet locum si
-                intelligamus quod Socrates habeat mentem de intellectu Platonis,
-                sed illa dubitatio habet locum de eodem intelligente respectu
-                sui intellectus, an Socrates posset intelligere suum intellectum
-                propter quam dicitur ulterius quod cum intellectus intelligit
-                suum intellectum, hoc non est per se er primo, immo est per
-                quemdam discursum quia in hoc quod intelligit rem aliam percipit
-                actum suum et in hoc quod percipit actum quodammodo percipit
-                substantiam cuius est iste actus et ideo ex consequenti
+                recipere magis est salus quam passio.
+              </p>
+              <p xml:id="da-73-l1q1-kh1wxf">
+                Ista ratio videtur adhuc esse dubia quia quocumque modo sumatur
+                motus, non videtur unde esse intelligibile quod idem posset esse
+                movens et motum respectu sui ipsius. Ista dubitatio non habet
+                locum si intelligamus quod Socrates habeat mentem de intellectu
+                Platonis, sed illa dubitatio habet locum de eodem intelligente
+                respectu sui intellectus, an Socrates posset intelligere suum
+                intellectum, propter quam dicitur ulterius quod cum intellectus
+                intelligit suum intellectum, hoc non est per se er primo, immo
+                est per quemdam discursum quia in hoc quod intelligit rem aliam
+                percipit actum suum et in hoc quod percipit actum quodammodo
+                percipit substantiam cuius est iste actus et ideo ex consequenti
                 intelligit suum intellectum. Unde quod id sit sic movens et
                 motum ita quod non primo non est inconveniens.
               </p>
@@ -331,18 +331,23 @@
               intelligibile primo immitare virtutem sensitivam a qua possit
               causari fantasma.
             </p>
-            <p xml:id="da-73-l1q1-k1pins">
-              Ad aliud argumentum dicendum est quod illud quod per se et primo
-              intelliguntur intellectu nostro oportet esse cum continuo et
-              tempore, sed secundum nunc dicta anima non est primum
-              intelligibile nisi per discursum. Aliter dicitur ad illud idem
-              quod licet anima intellectiva non sit continua quantum est de se
-              nec etiam per accidens nec etiam sit temporalis, est tamen
-              perfectio alicuius continuus et alicuius temporalis propter quod
-              intelligi potest sicut aliae formae materiales. Istae dubitationes
-              de intelligibili non faciunt <unclear>vere</unclear> difficultatem
-              de anima, immo solum de anima intellectiva.
-            </p>
+            <div xml:id="da-73-l1q1-wwykvt">
+              <p xml:id="da-73-l1q1-k1pins">
+                Ad aliud argumentum dicendum est quod illud quod per se et primo
+                intelliguntur intellectu nostro oportet esse cum continuo et
+                tempore, sed secundum nunc dicta anima non est primum
+                intelligibile nisi per discursum.
+              </p>
+              <p xml:id="#da-73-l1q1-rnyya4">
+                Aliter dicitur ad illud idem quod licet anima intellectiva non
+                sit continua quantum est de se nec etiam per accidens nec etiam
+                sit temporalis, est tamen perfectio alicuius continuus et
+                alicuius temporalis propter quod intelligi potest sicut aliae
+                formae materiales. Istae dubitationes de intelligibili non
+                faciunt <unclear>vere</unclear> difficultatem de anima, immo
+                solum de anima intellectiva.
+              </p>
+            </div>
           </div>
           <p xml:id="da-73-l1q1-kcvq78">
             Ad ultimum argumentum dicendum est quod quamvis huiusmodi
