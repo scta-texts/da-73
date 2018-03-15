@@ -259,7 +259,7 @@
           </div>
         </div>
         <div ana="#ad-rationes" xml:id="da-73-l1q1-ipt4tw">
-          <p xml:id="da-73-l1q1-ymo3ak">
+          <p xml:id="da-73-l1q1-ymo3ak" corresp="#da-73-l1q1-xp4zd2">
             Ad primum argumentum dicendum quod sicut in composito est assignare
             universale et particulare, sic quoddamodo in formis in componito ex
             hoc habemus universale quod illud quod est compositum consideramus
@@ -276,7 +276,8 @@
             species est particulare vel sensibile.
           </p>
           <div type="number-all">
-            <p xml:id="da-73-l1q1-gs8pvh" ana="#structure-head">
+            <p xml:id="da-73-l1q1-gs8pvh" ana="#structure-head"
+               corresp="#da-73-l1q1-f1ncv4">
               Ad aliud dicendum est quod minor est falsa, quia anima est
               intelligibilis prout sufficit ad dubium cognoscibile, unde
               difficultas in intelligendo immateriales formas non est ex parte
@@ -291,19 +292,19 @@
               nostri.
             </p>
             <div>
-              <p xml:id="da-73-l1q1-rnpyul">
+              <p xml:id="da-73-l1q1-rnpyul" corresp="#da-73-l1q1-u7p7oi">
                 Ad primum dicendum est quod loquendo de motu qui est actus entis
                 imperfecti non est possibile idem eodem respectu esse movens et
                 motum, agens et patiens. Sed nunc est ita quod intelligere
                 aliquo modo debeat dici motus, <add place="above-line">et</add>
-                erit motus entis perfecti et propter hoc
-                <unclear>e()te</unclear> erit motus ab eo quem definit <name
-                ref="#Aristotle">Aristoteles</name>, et propter hoc in tali non
-                est inconveniens idem respectu sui esset movens et motum.
-                Propter aliud quod tangitur dicendum quod etsi intellectus in
-                intelligendo dicatur pati, hoc est <unclear>e()ce</unclear>,
-                unde <name ref="#Aristotle">Aristoteles</name> vult quod suum
-                recipere magis est salus quam passio.
+                erit motus entis perfecti et propter hoc evidente erit motus ab
+                eo quem definit <name ref="#Aristotle">Aristoteles</name>, et
+                propter hoc in tali non est inconveniens idem respectu sui esset
+                movens et motum. Propter aliud quod tangitur dicendum quod etsi
+                intellectus in intelligendo dicatur pati, hoc est
+                <unclear>e()ce</unclear>, unde <name
+                ref="#Aristotle">Aristoteles</name> vult quod suum recipere
+                magis est salus quam passio.
               </p>
               <p xml:id="da-73-l1q1-kh1wxf">
                 Ista ratio videtur adhuc esse dubia quia quocumque modo sumatur
@@ -321,7 +322,7 @@
                 motum ita quod non primo non est inconveniens.
               </p>
             </div>
-            <p xml:id="da-73-l1q1-102u14">
+            <p xml:id="da-73-l1q1-102u14" corres="#da-73-l1q1-2plbr7">
               Ad aliam probationem dicendum est secundum nunc dicta quod
               intellectus sive anima non est illud quod primo
               <suplied>intelligitur</suplied> nec est <surplus>per</surplus>
@@ -332,13 +333,13 @@
               causari fantasma.
             </p>
             <div xml:id="da-73-l1q1-wwykvt">
-              <p xml:id="da-73-l1q1-k1pins">
+              <p xml:id="da-73-l1q1-k1pins" corresp="#da-73-l1q1-wuv902">
                 Ad aliud argumentum dicendum est quod illud quod per se et primo
                 intelliguntur intellectu nostro oportet esse cum continuo et
                 tempore, sed secundum nunc dicta anima non est primum
                 intelligibile nisi per discursum.
               </p>
-              <p xml:id="#da-73-l1q1-rnyya4">
+              <p xml:id="da-73-l1q1-rnyya4">
                 Aliter dicitur ad illud idem quod licet anima intellectiva non
                 sit continua quantum est de se nec etiam per accidens nec etiam
                 sit temporalis, est tamen perfectio alicuius continuus et
