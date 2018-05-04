@@ -202,61 +202,59 @@
             forma ergo est magis per se scibilis.
           </p>
         </div>
-        <div ana="#determinatio">
-          <div xml:id="da-73-l1q1-ypne13">
-            <p xml:id="da-73-l1q1-ozh758">
-              Ad illud dicendum est quod differenter dicitur de aliquo esse
-              scientia, quia alium dicitur esse scientia de aliquo sicut de
-              subiecto; alium dicitur esse scientia de aliquo sicut de
-              conclusione in demonstratione; alium dicitur esse scientia de
-              aliquo sicut de passione quae scitur de subiecto. Inter istos
-              modos maxime proprie est scientia quando <cb ed="#M" n="b"/> de
-              alio scitur sicut de subiecto, quia proprie est illud quod scitur.
-              Passio est illud <add place="above-line">quod</add> solum de alio
-              scitur, et obiectum appropriato est illud de quo scitur aliud.
-              Quaerere igitur utrum de anima possit esse scientia est quaerere
-              an ipsa possit esse subiectum scientiae, non ita quod sit illud in
-              quo est scientia sicut in obiecto, quia tunc omnis scientia esset
-              de anima, quia omnis scientia est in anima tamquam
-              <app>
-                <lem>in</lem>
-                <rdg wit="#M" type="correction-substitution">
-                  <subst>
-                    <del>de</del>
-                    <add>in</add>
-                  </subst>
-                </rdg>
-              </app>
-              obiecto.
-            </p>
-            <p xml:id="da-73-l1q1-5e53gy">
-              Est tunc intelligendum scientiam esse de anima ita ipsa possit
-              esse obiectum de quo probatur alia passio per medium, quod est
-              causa vel effectus. Dici ergo potest quod anima potest esse
-              subiectum illud de quo probari potest alia proprietas per se per
-              medium quod est causa vel effectus, quia licet forma constituat
-              unum secundum essentiam cum ipsa materia, adhuc essentia formae,
-              inquantum cognoscitur ut simplex, alia est ab essentia formae
-              inquantum compositum, et per consequens alia definitio formae
-              inquantum simplex et <surplus>compositum</surplus>
-              <app>
-                <lem wit="#M">
-                  <unclear>inquantum</unclear>
-                </lem>
-              </app>
-              compositum. Sed ubi alia
-              est essentia et alia definitio alia potest esse
-              <app>
-                <lem wit="#M">
-                  <unclear>definitio</unclear>
-                </lem>
-              </app>
-              per se; alia ergo potest esse scientia de anima et alia de corpore
-              animato, quia illa tria videntur sufficere, scilicet subiectum
-              scibile, et proprietas per se, et definitio. Dici potest igitur
-              quod de anima potest esse scientia tamquam de subiecto.
-            </p>
-          </div>
+        <div ana="#determinatio" xml:id="da-73-l1q1-ypne13">
+          <p xml:id="da-73-l1q1-ozh758">
+            Ad illud dicendum est quod differenter dicitur de aliquo esse
+            scientia, quia alium dicitur esse scientia de aliquo sicut de
+            subiecto; alium dicitur esse scientia de aliquo sicut de conclusione
+            in demonstratione; alium dicitur esse scientia de aliquo sicut de
+            passione quae scitur de subiecto. Inter istos modos maxime proprie
+            est scientia quando <cb ed="#M" n="b"/> de alio scitur sicut de
+            subiecto, quia proprie est illud quod scitur. Passio est illud <add
+            place="above-line">quod</add> solum de alio scitur, et obiectum
+            appropriato est illud de quo scitur aliud. Quaerere igitur utrum de
+            anima possit esse scientia est quaerere an ipsa possit esse
+            subiectum scientiae, non ita quod sit illud in quo est scientia
+            sicut in obiecto, quia tunc omnis scientia esset de anima, quia
+            omnis scientia est in anima tamquam
+            <app>
+              <lem>in</lem>
+              <rdg wit="#M" type="correction-substitution">
+                <subst>
+                  <del>de</del>
+                  <add>in</add>
+                </subst>
+              </rdg>
+            </app>
+            obiecto.
+          </p>
+          <p xml:id="da-73-l1q1-5e53gy">
+            Est tunc intelligendum scientiam esse de anima ita ipsa possit esse
+            obiectum de quo probatur alia passio per medium, quod est causa vel
+            effectus. Dici ergo potest quod anima potest esse subiectum illud de
+            quo probari potest alia proprietas per se per medium quod est causa
+            vel effectus, quia licet forma constituat unum secundum essentiam
+            cum ipsa materia, adhuc essentia formae, inquantum cognoscitur ut
+            simplex, alia est ab essentia formae inquantum compositum, et per
+            consequens alia definitio formae inquantum simplex et
+            <surplus>compositum</surplus>
+            <app>
+              <lem wit="#M">
+                <unclear>inquantum</unclear>
+              </lem>
+            </app>
+            compositum. Sed ubi alia
+            est essentia et alia definitio alia potest esse
+            <app>
+              <lem wit="#M">
+                <unclear>definitio</unclear>
+              </lem>
+            </app>
+            per se; alia ergo potest esse scientia de anima et alia de corpore
+            animato, quia illa tria videntur sufficere, scilicet subiectum
+            scibile, et proprietas per se, et definitio. Dici potest igitur quod
+            de anima potest esse scientia tamquam de subiecto.
+          </p>
         </div>
         <div ana="#ad-rationes" xml:id="da-73-l1q1-ipt4tw">
           <p xml:id="da-73-l1q1-ymo3ak" corresp="#da-73-l1q1-xp4zd2">
