@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>
-          Utrum intellectus possibilis intelligat se per essentiam.
+          III.10: Utrum intellectus possibilis intelligat se per essentiam.
         </title>
         <author>Henricus de la Wyle</author>
         <editor>Michael Stenskjær Christensen</editor>
@@ -25,7 +25,7 @@
       <sourceDesc>
         <listWit>
           <witness id="M">
-            Oxford, Magdalen College Library 53, ff. 57r-94v
+            Oxford, Magdalen College Library 63, ff. 57r-94v
           </witness>
         </listWit>
       </sourceDesc>
@@ -58,10 +58,17 @@
     </front>
     <body>
       <div xml:id="da-73-l3q10">
+        <head>
+          <supplied ana="#meta-text">
+            III.10: Utrum intellectus possibilis intelligat se per essentiam.
+          </supplied>
+        </head>
+        <p xml:id="da-73-l3q10-v454ai">
+          <!-- Note in left margin: Quaestio -->
+          Quaeritur utrum intellectus possibilis intelligat se per essentiam.
+        </p>
         <div ana="#rationes-principales">
-          <p xml:id="da-73-l3q10-v454ai">
-            <!-- Note in left margin: Quaestio -->
-            Quaeritur utrum intellectus possibilis intelligat se per essentiam
+          <p xml:id="da-73-l3q10-ou6dpz">
             et videtur quod sic quia per <name
             ref="#Aristotle">Aristoteles</name> in littera
             <cit>
@@ -84,8 +91,8 @@
             fantastica, nec per speciem alterius, ut videtur, quia cum species
             sit illud quo res cognoscitur, oportet eam esse proportionale
             cogniti, sed rei alterius species non est proportionalis
-            <unclear>intellectui</unclear>; intellectus ergo possibilis non
-            intelligit se per speciem, intelligit igitur se per essentiam.
+            intellectui; intellectus ergo possibilis non intelligit se per
+            speciem, intelligit igitur se per essentiam.
           </p>
           <p xml:id="da-73-l3q10-7sbypf">
             Item in substantiis separatis ita est quod substantia est
@@ -115,7 +122,7 @@
             <unclear>intelligens</unclear> est actus purus. Intelligentia,
             et quae est substantia intelligens est actus, sed non purus, quia in
             omnibus secundum <unclear>Boethium</unclear> citra primum
-            <unclear>sint</unclear> quid est a quo est, quia in omnibus
+            <unclear>sint</unclear> quid est a[=et] quo est, quia in omnibus
             huiusmodi est aliqua compositio potentiae et actus. Intellectus
             noster respectu praedictarum substantiarum intelligentium est sicut
             potentia prima, sed omnino sicut res se habent ad actum sic ad
@@ -138,7 +145,7 @@
             intelligibiles et inteligentes est sicut potentia.
           </p>
           <p xml:id="da-73-l3q10-uot6cx">
-            Istud oportet ex alio: Potentiae distinguintur per actus et
+            Istud oportet ex alio: Potentiae distinguuntur per actus et
             cognoscuntur, intellectus igitur possibilis, ut nominat potentiam,
             cognoscitur per actum suum secundum quem intelligit alia. Unde
             intelligendo illum actum per speciem rei extra se ipsum cognoscit et
