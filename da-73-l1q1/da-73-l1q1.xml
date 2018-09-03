@@ -30,7 +30,7 @@
               <physDesc>
                 <handDesc hands="2">
                   <handNote sameAs='#M'>Main hand.</handNote>
-                  <handNote xml:id="Mc">
+                  <handNote xml:id="c">
                     Later corrections, possibly different ink, probably same
                     scribe.
                   </handNote>
@@ -69,14 +69,9 @@
     </front>
     <body>
       <div xml:id="da-73-l1q1">
-        <head>
-          <supplied ana="#meta-text">
-            I.1: An de anima possit esse scientia
-          </supplied>
-        </head>
         <p xml:id="da-73-l1q1-opk9cz">
           <cit>
-            <quote>Bonorum honorabilium notitiam opinantes.</quote>
+            <quote type="lemma">Bonorum honorabilium notitiam opinantes.</quote>
             <bibl>
               <name ref="#Aristotle">Arist.</name>
               <title ref="#Arist.DA">DA</title> I.1, 402a1--2.
@@ -99,7 +94,7 @@
             singularibus sensibus; sed anima non est singulare et sensibilis.
           </p>
           <div xml:id="da-73-l1q1-4jh4fn">
-            <p xml:id="da-73-l1q1-f1ncv4">
+            <p xml:id="da-73-l1q1-f1ncv4" ana="#structure-head">
               Item illud de quo est scientia oportet esse intelligibile; sed
               anima non est intelligibile; ergo et cetera. Minor patet ex
               tribus.
@@ -198,7 +193,7 @@
                 <title ref="#Arist.Phys">Phys.</title> I.??
               </bibl>
             </cit>
-            Quod ergo materia sit scibilis, hoc est per respectum ad formam,
+            Quod ergo materia sit scibilis, hoc est per respectum ad formam;
             forma ergo est magis per se scibilis.
           </p>
         </div>
@@ -210,13 +205,18 @@
             in demonstratione; alium dicitur esse scientia de aliquo sicut de
             passione quae scitur de subiecto. Inter istos modos maxime proprie
             est scientia quando <cb ed="#M" n="b"/> de alio scitur sicut de
-            subiecto, quia proprie est illud quod scitur. Passio est illud <add
-            place="above-line">quod</add> solum de alio scitur, et obiectum
-            appropriato est illud de quo scitur aliud. Quaerere igitur utrum de
-            anima possit esse scientia est quaerere an ipsa possit esse
-            subiectum scientiae, non ita quod sit illud in quo est scientia
-            sicut in obiecto, quia tunc omnis scientia esset de anima, quia
-            omnis scientia est in anima tamquam
+            subiecto, quia proprie est illud quod scitur. Passio est illud
+            <app>
+              <lem>quod</lem>
+              <rdg wit="#M" type="correction-addition">
+                <add place="above-line">quod</add>
+              </rdg>
+            </app>
+            solum de alio scitur, et obiectum appropriato est illud de quo
+            scitur aliud. Quaerere igitur utrum de anima possit esse scientia
+            est quaerere an ipsa possit esse subiectum scientiae, non ita quod
+            sit illud in quo est scientia sicut in obiecto, quia tunc omnis
+            scientia esset de anima, quia omnis scientia est in anima tamquam
             <app>
               <lem>in</lem>
               <rdg wit="#M" type="correction-substitution">
@@ -243,23 +243,17 @@
                 <unclear>inquantum</unclear>
               </lem>
             </app>
-            compositum. Sed ubi alia
-            est essentia et alia definitio alia potest esse
-            <app>
-              <lem wit="#M">
-                <unclear>definitio</unclear>
-              </lem>
-            </app>
-            per se; alia ergo potest esse scientia de anima et alia de corpore
-            animato, quia illa tria videntur sufficere, scilicet subiectum
-            scibile, et proprietas per se, et definitio. Dici potest igitur quod
-            de anima potest esse scientia tamquam de subiecto.
+            compositum. Sed ubi alia est essentia et alia definitio, alia potest
+            esse definitio per se; alia ergo potest esse scientia de anima et
+            alia de corpore animato, quia illa tria videntur sufficere, scilicet
+            subiectum scibile, et proprietas per se, et definitio. Dici potest
+            igitur quod de anima potest esse scientia tamquam de subiecto.
           </p>
         </div>
         <div ana="#ad-rationes" xml:id="da-73-l1q1-ipt4tw">
           <p xml:id="da-73-l1q1-ymo3ak" corresp="#da-73-l1q1-xp4zd2">
             Ad primum argumentum dicendum quod sicut in composito est assignare
-            universale et particulare, sic quoddamodo in formis in componito ex
+            universale et particulare, sic quoddamodo in formis in composito ex
             hoc habemus universale quod illud quod est compositum consideramus
             praeter significationem, quia intelligere illud quod est Socrates
             non ut Socrates est est intelligere universale. Consimiliter est in
@@ -280,29 +274,33 @@
               intelligibilis prout sufficit ad dubium cognoscibile, unde
               difficultas in intelligendo immateriales formas non est ex parte
               intelligibilis, quia ipsa sunt maxime intelligibilia, sed ipsa est
-              ex parte intelligentis. Unde in <unclear>animalibus</unclear>
-              cognoscibilibus difficultas est ex parte cognoscibilis, et propter
-              hoc quoddam cognoscitur per privationem, sicut punctus est illud
-              cuius pars non est. Similiter in eo quod est ens in potentia ibi
-              est difficultas ex parte cognoscibilis, sed formae immateriales
-              sunt difficiles ad cognoscendum, et illa diffi<pb ed="#M"
-              n="57-v"/><cb ed="#M" n="a"/>cultas est ex debilitate intellectus
-              nostri.
+              ex parte intelligentis. Unde in aliquibus cognoscibilibus
+              difficultas est ex parte cognoscibilis, et propter hoc quoddam
+              cognoscitur per privationem, sicut punctus est illud cuius pars
+              non est. Similiter in eo quod est ens in potentia, ibi est
+              difficultas ex parte cognoscibilis, sed formae immateriales sunt
+              difficiles ad cognoscendum, et illa diffi<pb ed="#M" n="57-v"/><cb
+              ed="#M" n="a"/>cultas est ex debilitate intellectus nostri.
             </p>
             <div>
               <p xml:id="da-73-l1q1-rnpyul" corresp="#da-73-l1q1-u7p7oi">
                 Ad primum dicendum est quod loquendo de motu qui est actus entis
                 imperfecti non est possibile idem eodem respectu esse movens et
                 motum, agens et patiens. Sed nunc est ita quod intelligere
-                aliquo modo debeat dici motus, <add place="above-line">et</add>
-                erit motus entis perfecti et propter hoc evidente erit motus ab
+                aliquo modo debeat dici motus,
+                <app>
+                  <lem>et</lem>
+                  <rdg wit="#M" type="correction-addition">
+                    <add place="above-line">et</add>
+                  </rdg>
+                </app>
+                erit motus entis perfecti et propter hoc aequivoce erit motus ab
                 eo quem definit <name ref="#Aristotle">Aristoteles</name>, et
                 propter hoc in tali non est inconveniens idem respectu sui esset
                 movens et motum. Propter aliud quod tangitur dicendum quod etsi
-                intellectus in intelligendo dicatur pati, hoc est
-                <unclear>e()ce</unclear>, unde <name
-                ref="#Aristotle">Aristoteles</name> vult quod suum recipere
-                magis est salus quam passio.
+                intellectus in intelligendo dicatur pati, hoc est aequivoce,
+                unde <name ref="#Aristotle">Aristoteles</name> vult quod suum
+                recipere magis est salus quam passio.
               </p>
               <p xml:id="da-73-l1q1-kh1wxf">
                 Ista ratio videtur adhuc esse dubia quia quocumque modo sumatur
@@ -316,14 +314,14 @@
                 est per quemdam discursum quia in hoc quod intelligit rem aliam
                 percipit actum suum et in hoc quod percipit actum quodammodo
                 percipit substantiam cuius est iste actus et ideo ex consequenti
-                intelligit suum intellectum. Unde quod id sit sic movens et
+                intelligit suum intellectum; unde quod id sit sic movens et
                 motum ita quod non primo non est inconveniens.
               </p>
             </div>
             <p xml:id="da-73-l1q1-102u14" corres="#da-73-l1q1-2plbr7">
               Ad aliam probationem dicendum est secundum nunc dicta quod
               intellectus sive anima non est illud quod primo
-              <suplied>intelligitur</suplied> nec est <surplus>per</surplus>
+              <supplied>intelligitur</supplied>, nec est <surplus>per</surplus>
               tamquam per se obiectum intellectus nostri, et propter hoc non
               oportet quod primo faciat fantasma a sensu. Unde de eis quae primo
               et per se intelliguntur intellectu nostro verum est quod oportet
@@ -343,17 +341,29 @@
                 sit temporalis, est tamen perfectio alicuius continuus et
                 alicuius temporalis propter quod intelligi potest sicut aliae
                 formae materiales. Istae dubitationes de intelligibili non
-                faciunt <unclear>vere</unclear> difficultatem de anima, immo
-                solum de anima intellectiva.
+                faciunt
+                <app>
+                  <lem>vere</lem>
+                  <rdg wit="#M">
+                    <unclear>vere</unclear>
+                  </rdg>
+                </app>
+                difficultatem de anima, immo solum de anima intellectiva.
               </p>
             </div>
           </div>
           <p xml:id="da-73-l1q1-kcvq78">
             Ad ultimum argumentum dicendum est quod quamvis huiusmodi
             proprietates gaudere et cetera non fiunt per se et primo ipsius
-            animae <unclear>potentiae</unclear> tamen est aliquam esse
-            proprietatem per se et <add hand="#Mc"
-            place="above-line">non</add> primo.
+            animae potentiae tamen est aliquam esse
+            proprietatem per se et
+            <app>
+              <lem>non</lem>
+              <rdg wit="#M" type="correction-addition">
+                <add hand="#c" place="above-line">non</add>
+              </rdg>
+            </app>
+             primo.
           </p>
         </div>
       </div>
