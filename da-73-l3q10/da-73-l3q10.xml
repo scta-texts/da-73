@@ -58,18 +58,12 @@
     </front>
     <body>
       <div xml:id="da-73-l3q10">
-        <head>
-          <supplied ana="#meta-text">
-            III.10: Utrum intellectus possibilis intelligat se per essentiam.
-          </supplied>
-        </head>
         <p xml:id="da-73-l3q10-v454ai">
-          <!-- Note in left margin: Quaestio -->
           Quaeritur utrum intellectus possibilis intelligat se per essentiam.
         </p>
         <div ana="#rationes-principales">
           <p xml:id="da-73-l3q10-ou6dpz">
-            et videtur quod sic quia per <name
+            Et videtur quod sic quia per <name
             ref="#Aristotle">Aristoteles</name> in littera
             <cit>
               <quote>
@@ -111,38 +105,60 @@
         </div>
         <div ana="#determinatio">
           <p xml:id="da-73-l3q10-sxwrb9">
-            Dicendum est secundum quod innuit <name
-            ref="#Aristotle">Aristoteles</name> in littera quod intellectus
-            noster intelligit se sicut alia; sed alia intelligit per speciem; se
-            igitur intelligit per speciem aliquam. Ex hoc dicendum est quod
-            intellectus noster possiblis coniunctus se non intelligit per
-            essentiam. Illud ostenditur sic inter substantias
-            <unclear>intelligentes</unclear>: intellectus noster est sicut materia
-            prima quia tenet infimum gradum, quia prima causa quae est substantia
-            <unclear>intelligens</unclear> est actus purus. Intelligentia,
-            et quae est substantia intelligens est actus, sed non purus, quia in
-            omnibus secundum <unclear>Boethium</unclear> citra primum
-            <unclear>sint</unclear> quid est a[=et] quo est, quia in omnibus
-            huiusmodi est aliqua compositio potentiae et actus. Intellectus
-            noster respectu praedictarum substantiarum intelligentium est sicut
-            potentia prima, sed omnino sicut res se habent ad actum sic ad
-            intellectum, quia quicquid intelligitur intelligitur ut actu prima,
-            igitur causa quae solum est actus se intelligit per essentiam et
-            solum se, quia ut vult
+            Dicendum est secundum quod innuit
             <cit>
-              <ref ref="#Arist.Metaph">in duodecimo:</ref>
-              <quote>alia intelligit intelligendo se</quote>
-              <bibl>Arist. Metaph. XII.7/9</bibl>
+              <ref>
+                <name
+                    ref="#Aristotle">Aristoteles</name> in littera quod
+              </ref>
+              <quote type="parahrase">
+                intellectus noster intelligit se sicut alia;
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title> III.4, 430a2--3.
+              </bibl>
             </cit>
-            . <unclear>intellectiva [=intelligentia]</unclear>, quia distat ab
-            actu puro, se intelligit et etiam alia, sed illa alia quae
-            intelligit non intelligit per speciem, quia huiusmodi substantia est
-            separata a materia secundum essentiam. Properter hoc de illis dici
-            potest quod quae intelligunt intelligunt per essentiam propriam.
-            Intellectus noster, cum sit sicut potentia pura et in hoc multum
-            distat ab actu, se non intelligit per essentiam, quia potentia per
-            se non vadit ad actum, sed intellectus noster inter substantias
-            intelligibiles et inteligentes est sicut potentia.
+            sed alia intelligit per speciem; se igitur intelligit per speciem
+            aliquam. Ex hoc dicendum est quod intellectus noster possiblis
+            coniunctus se non intelligit per essentiam. Illud ostenditur sic
+            inter substantias intelligentes: intellectus noster est sicut
+            materia prima quia tenet infimum gradum, quia prima causa quae est
+            substantia intelligens est actus purus. Intelligentia
+            <surplus>et</surplus> quae est substantia intellectus est actus, sed
+            non purus, quia in omnibus secundum <unclear>Boethium</unclear>
+            citra primum differt quid est
+            <app>
+              <lem type="conjecture-corrected">et</lem>
+              <rdg wit="#M">a</rdg>
+            </app>
+            quo est, quia in omnibus huiusmodi est aliqua compositio potentiae
+            et actus. Intellectus noster respectu praedictarum substantiarum
+            intelligentium est sicut potentia prima, sed omnino sicut res se
+            habent ad actum sic ad intellectum, quia quicquid intelligitur
+            intelligitur ut actu prima, igitur causa quae solum est actus se
+            intelligit per essentiam et solum se, quia ut vult
+            <cit>
+              <ref ref="#Arist.Metaph">in duodecimo: </ref>
+              <quote type="paraphrase">alia intelligit intelligendo se</quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.Metaph">Metaph</title> XII.9 1074b21--36 (?)
+              </bibl>
+            </cit>
+            .
+            <app>
+              <lem type="conjecture-corrected">Intelligentia</lem>
+              <rdg wit="#M">intellectiva</rdg>
+            </app>
+            , quia distat ab actu puro, se intelligit et etiam alia, sed illa
+            alia quae intelligit non intelligit per speciem, quia huiusmodi
+            substantia est separata a materia secundum essentiam. Properter hoc
+            de illis dici potest quod quae intelligunt intelligunt per essentiam
+            propriam. Intellectus noster, cum sit sicut potentia pura et in hoc
+            multum distat ab actu, se non intelligit per essentiam, quia
+            potentia per se non vadit ad actum, sed intellectus noster inter
+            substantias intelligibiles et inteligentes est sicut potentia.
           </p>
           <p xml:id="da-73-l3q10-uot6cx">
             Istud oportet ex alio: Potentiae distinguuntur per actus et
@@ -155,41 +171,51 @@
             intelligendi, et deinde in cognitionem sui.
           </p>
           <p xml:id="da-73-l3q10-26h1m2">
-            Ad illud ostenditur <unclear>affirmit</unclear> <name
-            ref="#aristotle">Aristoteles</name> in littera quod in separatis a
-            materia idem est quod intelligit et quod intelligitur
-            <app>
-              <lem wit="#M" type="correction-addition">
-                <add place="margin-bottom">secundum essentiam</add>
-              </lem>
-            </app>
-            ; in propsitio vocat
             <!-- Margin note: intellectus noster possibilis quoddammodo
                  separatur a materia quod intelligitur (I think it's just a
                  note, not a addition/correction) -->
-            <name ref="#Aristotle">Aristoteles</name>
+            Ad illud ostenditur: assumit
+            <cit>
+              <ref>
+                <name ref="#aristotle">Aristoteles</name> in littera quod
+              </ref>
+              <quote type="paraphrase">
+                in separatis a materia idem est quod intelligit et quod
+                intelligitur
+                <app>
+                  <lem>secundum essentiam</lem>
+                  <rdg wit="#M" type="correction-addition">
+                    <add place="margin-bottom">secundum essentiam</add>
+                  </rdg>
+                </app>
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title> III.4, 430a3--5.
+              </bibl>
+            </cit>
+            ; in propsito vocat <name ref="#Aristotle">Aristoteles</name>
             <mentioned>speciem</mentioned> qua intellectus fit actu intelligens;
             unde quia illa species est eadem cum intellectu nostro possibili
-            quoddammodo separato ideo intellectus noster se intelligit per illam
-            speciem.
+            quoddammodo separato, ideo intellectus noster se intelligit per
+            illam speciem.
           </p>
           <p xml:id="da-73-l3q10-head2i">
             Ulterius videndum est quod contingit intellectum habere cognitionem
-            sui <pb ed="#M" n="87-r"/><cb ed="#M" n="a"/> secundum essentiam
-            quia supponitur quod de anima potest esse scientia, sed scientia de
-            aliquo est secundum cognitionem quantum ad essentiam, sed istam
+            sui <pb ed="#M" n="87-r"/><cb ed="#M" n="a"/> secundum essentiam,
+            quia supponitur quod de anima potest esse scientia; sed scientia de
+            aliquo est secundum cognitionem quantum ad essentiam; sed istam
             cognitionem habet de se ipso per multas reflexiones. Iste modus
             cognoscendi sive intelligendi non est ad propositum.
           </p>
         </div>
         <div ana="#ad-rationes">
           <p xml:id="da-73-l3q10-b5jduy">
-            Ad primum argumentum dicitur secundum iam dicta quod si
-            <unclear>recte</unclear> accipitur intellectus litterae, sic magis
-            ad oppositum quam ad propositum, quia sicut in scientiis
-            speculativis idem est scientia et scitum,
-            <unclear>consimiliter</unclear> de intellectu nostro quoddammodo
-            separato dicendum est quod est idem cum
+            Ad primum argumentum dicitur secundum iam dicta quod si recte
+            accipitur intellectus litterae, sic magis ad oppositum quam ad
+            propositum, quia sicut in scientiis speculativis idem est scientia
+            et scitum, consideratur de intellectu nostro:
+            quoddammodo separato dicendum est quod est idem cum
             <app>
               <lem>specie</lem>
               <rdg wit="#M" type="correction-substitution">
@@ -199,7 +225,7 @@
                 </subst>
               </rdg>
             </app>
-            rei intelligibilis extra, et quia sibi est idem ideo per ipsam se
+            rei intelligibilis extra, et quia sibi est idem, ideo per ipsam se
             intelligit.
           </p>
           <div>
@@ -223,23 +249,27 @@
             Ad ultimum argumentum dicendum est quod aliter est intellectus
             noster intelligens et intelligibilis quam substantia separata, quia
             sicut est dictum, cum intellectus noster est coniunctus est sicut
-            potentia prima inter substantias <unclear>intelligentes</unclear>, et
-            propter hoc per se non intelligit sicut substantia separata secundum
-            esse. Supposito tamen quod possit separari secundum esse et manere
-            separati, tunc forte se intelligeret sicut substantia separata vel
+            potentia pura inter substantias intelligentes, et propter hoc per se
+            non intelligit sicut substantia separata secundum esse. Supposito
+            tamen quod possit separari secundum esse et manere
+            <app>
+              <lem type="conjecture-corrected">separatus</lem>
+              <rdg wit="#M">separatim</rdg>
+            </app>
+            , tunc forte se intelligeret sicut substantia separata vel
             intelligibilia.
           </p>
+          <p xml:id="da-73-l3q10-ewyv0k">
+            Contra praedicta aliquis diceret quod intellectus noster potest
+            habere aliquam speciem sibi innatam quae solum ducit in cognitionem
+            eius, et quod propter hoc intelligit se per speciem, sed non per
+            speciem alterius sed ex illo. Videtur sequi inconsideratio, scilicet
+            quod intellectus noster semper se intelliget, quia semper ipso
+            manente manet species sibi innata, et ex hoc ulterius sequitur quod
+            alia non intelliget quia intellectus noster ad quod se convertit
+            totaliter se convertit.
+          </p>
         </div>
-        <p xml:id="da-73-l3q10-ewyv0k">
-          Contra praedicta aliquis diceret quod intellectus noster potest
-          habere aliquam speciem sibi innatam quae <unclear>solum</unclear>
-          ducit in cognitionem eius, et quod propter hoc intelligit se per
-          speciem, sed non per speciem alterius sed ex illo, videtur sequi
-          inconsideratio, scilicet quod intellectus noster semper se
-          intelliget, quia semper ipso manente manet species sibi innata et ex
-          hoc ulterius sequitur quod alia non intelliget quia intellectus
-          noster ad quod se convertit totaliter se convertit.
-        </p>
       </div>
     </body>
   </text>
