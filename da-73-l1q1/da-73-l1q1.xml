@@ -88,7 +88,7 @@
               <ref>
                 primo <title ref="#Aristo.APo">Posteriorum</title>
               </ref>
-              <bibl>APo I.??</bibl>
+              <bibl>APo I.4, 73b25--27.</bibl>
             </cit>
             . Minor probatur sic: Universale sit per abstractionem a multis
             singularibus sensibus; sed anima non est singulare et sensibilis.
@@ -124,7 +124,7 @@
                   </quote>
                   <bibl>
                     <name ref="#Aristotle">Aristoteles</name>
-                    <title ref="#Arist.DA">DA</title> II.??
+                    <title ref="#Arist.DA">DA</title> III.4, 429a1--2.
                   </bibl>
                 </cit>
                 ,
@@ -135,7 +135,7 @@
                   <rdg wit="#M">quia</rdg>
                 </app>
                 manifestum est quod anima non cadit sub sensu; ergo fantasma
-                facere no potest, et er consequens non est intelligibilis.
+                facere non potest, et per consequens non est intelligibilis.
               </p>
               <p xml:id="da-73-l1q1-wuv902">
                 Illud idem ostenditur tertio sic: Per
@@ -146,7 +146,7 @@
                   </ref>
                   <bibl>
                     <name ref="#Aristotle">Aristoteles</name>
-                    <title ref="#Arist.DA">DA</title> III.??
+                    <title ref="#Arist.DA">DA</title> III.6, 430b16--20.
                   </bibl>
                 </cit>
                 nostrum intelligere est cum continuo et tempore; sed anima nec
@@ -156,12 +156,17 @@
                 <cit>
                   <ref>
                     <name ref="#Aristotle">Aristoteles</name>
-                    secundo huius
+                    secundo huius ubi vult quod
                   </ref>
-                  <bibl>Arist. DA II.2, 413b26--27.</bibl>
+                  <quote type="paraphrase">
+                    anima separatur a corpore tamquam perpetuum a corruptibili
+                  </quote>
+                  <bibl>
+                    <name ref="#Aristotle">Aristoteles</name>
+                    <title ref="#Arist.DA">DA</title> II.2, 413b26--27.
+                  </bibl>
                 </cit>
-                ubi vult quod anima separatur a corpore tamquam perpetuum a
-                corporali, sed nihil inquantum perpetuum est temporale.
+                , sed nihil inquantum perpetuum est temporale.
               </p>
             </div>
           </div>
@@ -172,8 +177,16 @@
             aliquam proprietas per se, haec maxime esset intelligere et sentire,
             sed per <name ref="#Aristotle">Aristoteles</name> istae proprietates
             non sunt per se ipsius animae, sed coniuncti; unde habetur quod
-            nihil aliud est dicere animam gaudere vel tristari quam texere vel
-            aedificare et cetera.
+            <cit>
+              <quote type="paraphrase">
+                nihil aliud est dicere animam gaudere vel tristari quam texere
+                vel aedificare et cetera.
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Aristoteles</name>
+                <title ref="#Arist.DA">DA</title> I.4, 408b11--13.
+              </bibl>
+            </cit>
           </p>
         </div>
         <div ana="#rationes-principales">
@@ -187,10 +200,10 @@
                 <name ref="#Aristotle">Aristoteles</name>
                 primo <title ref="#Arist.Phys">Physicorum</title>:
               </ref>
-              <quote>material est solum scibilis secundum analogiam.</quote>
+              <quote>materia est solum scibilis secundum analogiam.</quote>
               <bibl>
                 <name ref="#Aristotle">Arist.</name>
-                <title ref="#Arist.Phys">Phys.</title> I.??
+                <title ref="#Arist.Phys">Phys.</title> I.7, 191a7--12.
               </bibl>
             </cit>
             Quod ergo materia sit scibilis, hoc est per respectum ad formam;
@@ -310,12 +323,12 @@
                 Platonis, sed illa dubitatio habet locum de eodem intelligente
                 respectu sui intellectus, an Socrates posset intelligere suum
                 intellectum, propter quam dicitur ulterius quod cum intellectus
-                intelligit suum intellectum, hoc non est per se er primo, immo
+                intelligit suum intellectum, hoc non est per se et primo, immo
                 est per quemdam discursum quia in hoc quod intelligit rem aliam
                 percipit actum suum et in hoc quod percipit actum quodammodo
-                percipit substantiam cuius est iste actus et ideo ex consequenti
-                intelligit suum intellectum; unde quod id sit sic movens et
-                motum ita quod non primo non est inconveniens.
+                percipit substantiam cuius est iste actus, et ideo ex
+                consequenti intelligit suum intellectum; unde quod id sit sic
+                movens et motum ita quod non primo non est inconveniens.
               </p>
             </div>
             <p xml:id="da-73-l1q1-102u14" corres="#da-73-l1q1-2plbr7">
@@ -354,16 +367,16 @@
           </div>
           <p xml:id="da-73-l1q1-kcvq78">
             Ad ultimum argumentum dicendum est quod quamvis huiusmodi
-            proprietates gaudere et cetera non fiunt per se et primo ipsius
-            animae potentiae tamen est aliquam esse
-            proprietatem per se et
+            proprietates -- gaudere et cetera -- non fiunt per se et primo
+            ipsius animae potentiae, tamen est aliquam esse proprietatem per se
+            et
             <app>
               <lem>non</lem>
               <rdg wit="#M" type="correction-addition">
                 <add hand="#c" place="above-line">non</add>
               </rdg>
             </app>
-             primo.
+            primo.
           </p>
         </div>
       </div>
